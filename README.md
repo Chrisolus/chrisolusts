@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chrisolus</h1>
-<h3 align="center">A Student from India.</h3>
+<h3 align="center">A Enthusiastic programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisolus&label=Profile%20views&color=0e75b6&style=flat" alt="chrisolus" /> </p>
 
-- 🔭 I’m currently working on **a android application project**
-
 - 🌱 I’m currently learning **about APIs using Nodejs**
 
-- 👨‍💻 All of my projects are available at [chrisolus.bcasjc.in](chrisolus.bcasjc.in)
+- 👨‍💻 My portfolio [chrisolus.bcasjc.in](chrisolus.bcasjc.in)
 
 - 💬 Ask me about **javascript and web design**
 
